@@ -249,10 +249,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _games
   - scope:
       path: ""
-      type: portfolio
+      type: games
     values:
       layout: single
       author_profile: true
