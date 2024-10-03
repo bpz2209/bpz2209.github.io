@@ -8,13 +8,13 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Julian Lin"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Julian Lin"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://bpz2209.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "bpz2209/bpz2209.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -72,7 +72,7 @@ author:
   # xing             : # Username
   # youtube          : # Username
   # zhihu            : # Username
-  bilibili           : 11033676 # UID
+  bilibili           : "11033676" # UID
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
